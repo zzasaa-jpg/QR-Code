@@ -1,0 +1,97 @@
+#inputs {
+  display: flex;
+  flex-direction: column;
+  justify-items: start;
+  align-items: center;
+  gap: 15px;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.value-input {
+  width: 600px;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.Colors-div {
+  display: flex;
+  gap: 20px;
+}
+
+.Colors-div label {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.size-input {
+  width: 600px;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.colors-bg-fg {
+  display: flex;
+  gap: 20px;
+}
+
+#hr {
+  height: 12px;
+}
+
+#QR-Code {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#QR-Code-in {
+  outline: auto;
+  box-shadow: 10px 10px 20px black;
+}
+
+#hr2 {
+  margin: 20px 100px;
+}
+
+@media only screen and (max-width:768px) {
+  .value-input {
+    width: 300px;
+    font-size: 16px;
+  }
+
+  .size-input {
+    width: 300px;
+    font-size: 16px;
+  }
+
+  .Colors-div {
+    gap: 20px;
+    align-items: center;
+  }
+
+  .Colors-div label {
+    font-size: 16px;
+  }
+
+  #hr {
+    height: 0.1px;
+    width: 180px;
+    background-color: black;
+  }
+
+  #hr2 {
+    margin: 20px;
+  }
+
+  .colors-bg-fg {
+    flex-direction: column;
+    gap: 1px;
+  }
+}
