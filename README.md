@@ -1,3 +1,13 @@
 # QR Code generator
 
-#### This website built by react-qr-code package. Mobile responsive.
+## Details of stack, third party, programmin language
+- FrontEnd
+- react-qr-code
+- Java script
+
+## Website main functionality
+This is simple QR code generator. Create a QR code in your favorite color.
+
+## Website images
+
+<a href="https://qr-web-app.netlify.app/" target="_blank">website link</a>
