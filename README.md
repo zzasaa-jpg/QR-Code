@@ -6,6 +6,6 @@
 - Java script
 
 ## Website main functionality
-This is simple QR code generator. Create a QR code in your favorite color.
+This is simple QR code generator. Create a QR code in your favorite color. 
 
 <a href="https://qr-web-app.netlify.app/" target="_blank">website link</a>
