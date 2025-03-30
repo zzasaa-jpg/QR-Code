@@ -1,6 +1,6 @@
 # QR Code generator
 
-## Details of stack, third party, programmin language
+## Details of stack, third party, programming language
 - FrontEnd
 - react-qr-code
 - Java script
